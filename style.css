@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/NGC_4414_%28NASA-med%29.jpg/1200px-NGC_4414_%28NASA-med%29.jpg');
+  background-size: cover;
+  font-family: helvetica, arial, san-serif;
+}
+h1{
+color: red;
+font-size: 30px;
+}
+h2{
+color: red;
+font-size: 15px;
+}
+p{
+color: red;
+font-size: 20px;
+}
+a{
+color: red;
+font-size: 15px;
+}
+li{
+color: red;
+}
