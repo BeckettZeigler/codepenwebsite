@@ -4,23 +4,27 @@ body {
   background-size: cover;
   font-family: helvetica, arial, san-serif;
 }
-h1{
+
+h1 {
 color: red;
 font-size: 30px;
 }
-h2{
+
+h2 {
 color: red;
 font-size: 15px;
 }
-p{
+
+p {
 color: red;
 font-size: 20px;
 }
-a{
-color: red;
+
+a {
+color: #FFF;
 font-size: 15px;
 }
-li{
-color: white;
+
+li {
 text-transform: capitalize;
 }
